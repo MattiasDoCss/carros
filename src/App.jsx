@@ -4,7 +4,7 @@ import Luxuosos from './components/Luxuosos'
 
 export default function App() {
   return(
-    <main className='min h-svh bg-offwhitebg py-20 px-6 antialised lg:flex justify-center items-center'>
+    <main className='min-h-svh bg-offwhitebg py-20 px-6 antialiased lg:flex justify-center items-center'>
       <div className='lg:flex masx-w-[920px]'>
         
         <Sedans />
